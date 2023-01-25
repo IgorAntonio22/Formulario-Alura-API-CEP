@@ -1,2 +1,3 @@
-# js-consumindo-dados-api
-Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
+# Consumindo e Tratando Dados de Uma API de CEP
+
+[Acessar Formulário](https://formulario-alura-api-cep.vercel.app/)
